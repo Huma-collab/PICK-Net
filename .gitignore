@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+wandb/
+*.log
+outputs/
+pathA_outputs/
+locked_outputs/
+environment_freeze.txt
+picknet_env/
+*.ckpt
+*.pth
+data/
+*.npy
+*.whl
+*.zip
+ecg_ptbxl_benchmarking/
